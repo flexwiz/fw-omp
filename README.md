@@ -1,2 +1,3 @@
-# omp
-Open Marketplace Platform
+# FlexWiz Online Market Platform (FW/OMP)
+
+Online Market Platform
